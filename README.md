@@ -9,4 +9,4 @@ Traveler's Dream adds:
 
 230+ "significant" biomes, almost each one consists of several "technical" biomes, like it's own border, beach, glade, lake, cliffs, mountains, fields etc
 
-747 biomes in total
+747 biomes in total - 750 for Thaumic Traveler's Dream
